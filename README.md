@@ -9,6 +9,7 @@ New CAFE web for publication.
 ## Instalación
 1. Clonar el repositorio
 
+```
 git clone https://github.com/uDIE-UCU/IEEE-CAFE-2025.git
 
 2. Abrir el archivo index.html en el navegador
